@@ -1,5 +1,5 @@
 from utils.math import sum_number
-from utils.counts import my_factorial
+from utils.factorial import my_factorial
 
 
 if __name__ == "__main__":
