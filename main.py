@@ -1,5 +1,5 @@
 from utils.math import sum_number
-from utils.counts import factorial
+from utils.counts import my_factorial
 
 
 if __name__ == "__main__":
@@ -7,4 +7,4 @@ if __name__ == "__main__":
     
     print(sum_number(3, 4))
     
-    print(factorial(5))
+    print(my_factorial(5))
