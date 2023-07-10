@@ -9,5 +9,3 @@ def fibo():
         a = b
         b = c
         c = a + b
-
-print("ok")
