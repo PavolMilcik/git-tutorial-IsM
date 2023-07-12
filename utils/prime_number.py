@@ -1,3 +1,5 @@
+
+# this function return only prime numbers
 def prime_nmbr(x):
     count_prime_numbers = 0
     
