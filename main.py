@@ -6,6 +6,7 @@ from utils.fibonacci import fibo
 if __name__ == "__main__":
     print("Hello World")
     print("nice to meet you")
+    print("Have a nice day.")
     
     print(sum_number(3, 4))
     
