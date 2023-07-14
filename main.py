@@ -1,7 +1,7 @@
 from utils.math import sum_number
 from utils.factorial import my_factorial
 from utils.fibonacci import fibo
-
+from utils.user_numb_input import number_input
 
 if __name__ == "__main__":
     print("Hello World")
@@ -15,3 +15,5 @@ if __name__ == "__main__":
     print("\n")
     fibo()
     print("\n")
+
+    print(number_input())
