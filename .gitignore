@@ -1,3 +1,4 @@
 # ignored files and folders:
 /utils/__pycache__
 /.mypy_cache/
+/utils/image_handler.py
