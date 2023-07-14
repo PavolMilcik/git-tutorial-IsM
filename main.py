@@ -4,7 +4,7 @@ from utils.fibonacci import fibo
 from utils.user_numb_input import number_input
 
 if __name__ == "__main__":
-    print("Hello World")
+    print("Hello World and everybody!")
     print("nice to meet you")
     print("Have a nice day.")
     
