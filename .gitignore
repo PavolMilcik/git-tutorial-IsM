@@ -2,3 +2,4 @@
 /utils/__pycache__
 /.mypy_cache/
 /utils/image_handler.py
+/utils/print_handler_002.py
