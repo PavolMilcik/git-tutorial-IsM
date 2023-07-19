@@ -10,7 +10,7 @@
 ### The source from which I learned of the above:
 I learned from *[Miso Hucko's](https://www.informatikasmisom.sk/)* sources and his project *[Informatika s Misom](https://www.youtube.com/@InformatikasMisom/featured)*, specifically from the part of the **[Kurz Gitu](https://www.youtube.com/playlist?list=PLNAMH_0HgWT-ey31hQqrmi_Rgr4OVWgH3)**.
 
-### Here I learned something about:
+#### Here I learned something about:
 * Git
 * Git Bash
 * Vim
@@ -20,7 +20,7 @@ I learned from *[Miso Hucko's](https://www.informatikasmisom.sk/)* sources and h
 * conflict in Git
 * README.md
 
-## Some commands that I have learned and used on various examples - Code snippets.
+## Code snippets - Some commands that I have learned and used on various examples.
 
 ### Initial settings:
 
