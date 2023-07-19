@@ -3,8 +3,8 @@
 
 #  This is my introductory skills from Git, Git Bash and GitHub.
 
-### The source from which I learned of the above:
-I learned from *[Miso Hucko's](https://www.informatikasmisom.sk/)* sources and his project *[Informatika s Misom](https://www.youtube.com/@InformatikasMisom/featured)*, specifically from the part of the **[Kurz Gitu](https://www.youtube.com/playlist?list=PLNAMH_0HgWT-ey31hQqrmi_Rgr4OVWgH3)**.
+### The sources from which I learned of the above:
+I learned the most from *[Miso Hucko's](https://www.informatikasmisom.sk/)* sources and his project *[Informatika s Misom](https://www.youtube.com/@InformatikasMisom/featured)*, specifically from the part of the **[Kurz Gitu](https://www.youtube.com/playlist?list=PLNAMH_0HgWT-ey31hQqrmi_Rgr4OVWgH3)**.
 
 #### Here I learned something about:
 * Git
@@ -16,7 +16,7 @@ I learned from *[Miso Hucko's](https://www.informatikasmisom.sk/)* sources and h
 * conflict in Git
 * README.md
 
-## Code snippets - Some commands that I have learned and used on various examples.
+## Code snippets - Some commands that I have learned and used on various examples:
 
 ### Initial settings:
 
@@ -25,7 +25,7 @@ $ git config
 $ git init
 ```
 
-### Working in local repository:
+### Working in a local repository:
 ```
 $ git status
 $ git add
