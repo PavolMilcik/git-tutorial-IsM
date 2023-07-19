@@ -14,7 +14,7 @@ I learned the most from *[Miso Hucko's](https://www.informatikasmisom.sk/)* sour
 * GitHub
 * .gitignore
 * conflict in Git
-* md. - markdown document
+* .md - markdown document
 
 ## Code snippets - Some commands that I have learned and used on various examples:
 
