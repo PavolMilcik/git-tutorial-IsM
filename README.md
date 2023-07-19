@@ -42,7 +42,7 @@ $ git reset
 $ git tag
 ```
 
-### Working with remote repositor:
+### Working with remote repository:
 ```
 $ git remote
 $ git push
